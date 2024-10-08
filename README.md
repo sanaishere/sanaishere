@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sana faraji
 - 👀 I’m interested in javascript,typescript and also backend frameworks like express js and nest js
-- 🌱 I’m currently learning nest js
+- 🌱 I’m currently learning hexagonal architecture.
 - 💞
 - 📫 How to reach me here sanafaraji82@gmail.com
   
